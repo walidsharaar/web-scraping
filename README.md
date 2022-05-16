@@ -8,4 +8,5 @@ Several websraping project using Python
 
 ## Projects
 1. Quotes from quotes.tosracpe.com
-2. Britannica 
+2. Britannica
+3. IMDB Data scraping
