@@ -8,3 +8,4 @@ Several websraping project using Python
 
 ## Projects
 1. Quotes from quotes.tosracpe.com
+2. Britannica 
